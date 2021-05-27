@@ -16,7 +16,13 @@
 /* header */
 
 .hdr {
-    height: 100px;
+    height: 80px;
     margin: 30px auto;
     background-color: rgb(224, 119, 202);
+}
+
+.main-content {
+    height: 320px;
+    margin: 30px auto;
+    background-color: goldenrod;
 }
