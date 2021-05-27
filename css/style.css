@@ -1,0 +1,14 @@
+/* reset */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* generics */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
