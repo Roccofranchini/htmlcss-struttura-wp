@@ -12,3 +12,11 @@
     max-width: 1200px;
     margin: auto;
 }
+
+/* header */
+
+.hdr {
+    height: 100px;
+    margin: 30px auto;
+    background-color: rgb(224, 119, 202);
+}
